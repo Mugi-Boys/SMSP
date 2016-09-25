@@ -1,0 +1,24 @@
+
+
+.justificar
+{
+  text-align: justify;
+}
+
+ul ol, p
+{
+  margin: 15px;
+  color: #35478C;
+}
+
+.fuente
+{
+  font-family: 'David Libre', serif;
+  font-size: 1.5em;
+  font-weight: 400;
+}
+h2
+{
+  color:#FF1D23;
+  font-size: 1.5em;
+}
